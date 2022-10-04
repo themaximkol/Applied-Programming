@@ -6,5 +6,5 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-**/AP4/poetry.lock
-pyproject.toml
+*.lock
+*.toml
